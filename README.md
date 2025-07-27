@@ -44,7 +44,7 @@ Wanderlust is a full-stack dynamic web application inspired by **YelpCamp**, bui
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/hareramwadekar/wanderlust.git
+git clone https://github.com/hareram16/wanderlust.git
 cd wanderlust
 
 # 2. Install dependencies
