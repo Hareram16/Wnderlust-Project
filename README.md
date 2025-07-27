@@ -30,16 +30,6 @@ Wanderlust is a full-stack dynamic web application inspired by **YelpCamp**, bui
 
 ---
 
-## 📸 Screenshots
-
-| Landing Page | Campground Page |
-|--------------|-----------------|
-| ![landing](https://via.placeholder.com/400x200) | ![camp](https://via.placeholder.com/400x200) |
-
-*(Add actual screenshots once you upload them)*
-
----
-
 ## 🧠 How It Works
 
 1. Users can register and log in
